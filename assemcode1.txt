@@ -1,0 +1,8 @@
+addi $t7 $t7 -500
+addi $t7 $t7 1
+bne $t7 $0 -2
+halt
+halt
+halt
+halt
+halt
